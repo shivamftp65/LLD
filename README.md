@@ -1,5 +1,5 @@
-#OOPS Principals
-  -Encapsulation
-  -Inheritance
-  -Abstraction
-  -Polymorphism
+#OOPS Principals 
+    -Encapsulation 
+    -Inheritance 
+    -Abstraction 
+    -Polymorphism
