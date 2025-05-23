@@ -1,1 +1,5 @@
-class - OOPS
+#OOPS Principals
+  -Encapsulation
+  -Inheritance
+  -Abstraction
+  -Polymorphism
