@@ -1,5 +1,6 @@
-#OOPS Principals 
-    -Encapsulation 
-    -Inheritance 
-    -Abstraction 
-    -Polymorphism
+    # OOPS Principles
+
+    - Encapsulation
+    - Inheritance
+    - Abstraction
+    - Polymorphism
